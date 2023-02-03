@@ -9,7 +9,7 @@ Data originates from Instacart's [2017 open source dataset](https://www.instacar
 A set of fabricated customer dataset (for analysis purposes) can be downloaded [here](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip).
 
 ## Analysis
-Analysis has been conducted in Python using Jupyter notebooks and the following libraries have been utilised: pandas, NumPy, os, matplotlib and scipy. The following has been performed in this analysis: data cleaning & wrangling, deriving conditional flags & logic using if-statements, user define functions, loc() function and for-loops, and creating visualizations.
+Analysis has been conducted in Python using Jupyter notebooks and the following libraries have been utilised: pandas, NumPy, os, seaborn, and scipy. The following has been performed in this analysis: data cleaning & wrangling, deriving conditional flags & logic using if-statements, user define functions, loc() function and for-loops, and creating visualizations.
 
 ## Findings
 The analysis and findings, which includes the data population flow, cleaning ad wrangling steps as well as the vizualizations and analysis have been documented in Excel and can be found in the '05 Sent to Client' folder.
